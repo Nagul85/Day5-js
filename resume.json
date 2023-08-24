@@ -1,0 +1,59 @@
+{
+    "name": "Nagul Panneer",
+    "email": "nagul.panneer@gmail.com",
+    "phone": "+919626351236",
+    "address": "10/90, Thalai kinathu thottam, singalandapuram, Rasipuram, Namakkal(D.t)",
+    "summary": "Results-driven software engineer with 5 years of experience in developing web and mobile applications. Proficient in multiple programming languages and frameworks.",
+    "education": [
+      {
+        "degree": "B.E",
+        "College": "St.Joseph's Institute of technology",
+        "graduationYear": "2020",
+        "location": "Chennai"
+      }
+    ],
+    "experience": [
+      {
+        "position": "UI/UX Designer",
+        "company": "cognitive platform solutions",
+        "startDate": "March 2022",
+        "endDate": "December 2022",
+        "location": "Chennai",
+        "responsibilities": [
+          "Developing and maintaining web applications using React and Node.js.",
+          "Collaborating with cross-functional teams to design and implement new features.",
+          "Optimizing application performance and ensuring security best practices."
+        ]
+      },
+      {
+        "position": "Website Developer",
+        "company": "Swift Technologies",
+        "startDate": "February 2023",
+        "endDate": "July 2023",
+        "location": "Coimbatore",
+        "responsibilities": [
+          "Assisted in front-end development using HTML, CSS, and JavaScript.",
+          "Participated in code reviews and provided feedback for improvements.",
+          "Contributed to the development of a mobile app using React Native."
+        ]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML/CSS",
+      "SQL",
+      "Git",
+      "Agile Development"
+    ],
+    "languages": ["English (Fluent)", "Tamil (Intermediate)"],
+    "certifications": [
+      {
+        "name": "Certified React Developer",
+        "issuedBy": "React Mastery",
+        "date": "March 2021"
+      }
+    ],
+    "interests": ["Open-source projects", "Hiking", "Photography"]
+  }

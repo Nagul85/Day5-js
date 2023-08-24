@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script> 
+
+
+        // Json Object 
+        const jsonData = {
+     name: "John",
+     age: 30,
+     city: "New York",
+    hobbies: ["Reading", "Hiking", "Cooking"],
+ };
+
+
+//  For Loop:
+
+ for (let key in jsonData) {
+  console.log(key + ": " + jsonData[key]);
+}
+
+
+// For...In Loop:
+
+for (let key in jsonData) {
+  console.log(key + ": " + jsonData[key]);
+}
+
+
+// For...Of Loop (for iterating over the values of an array, not suitable for objects):
+
+for (let value of Object.values(jsonData)) {
+  console.log(value);
+}
+
+
+// forEach Loop (for iterating over the values of an array, not suitable for objects):
+
+Object.values(jsonData).forEach((value) => {
+  console.log(value);
+});
+
+
+
+
+    </script> 
+
+</body>
+</html>
